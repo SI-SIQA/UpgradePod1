@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "06DAFMrxT4kf2nHtsw2jCP",
+    "name" : "Ui Automation 20-May-2012:08:05:437",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Ran On 20-May-20",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
